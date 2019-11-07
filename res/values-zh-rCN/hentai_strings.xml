@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- Statusbar lyric -->
+    <string name="status_bar_lyric_title">状态栏歌词</string>
+    <string name="status_bar_lyric_summary">在状态栏中显示歌词（需要应用程序支持）</string>
+    <string name="status_bar_show_lyric_title">启用状态栏歌词</string>
+    <string name="status_bar_lyric_options_title">选项</string>
+    <string name="disguise_props_for_music_app_title">对音乐应用伪装设备</string>
+    <string name="disguise_props_for_music_app_summary">在一些音乐应用中伪装设备以支持状态栏歌词。更改此开关后，您必须重新启动相关应用才能使更改生效。</string>
+
+    <!-- Navigation bar hint -->
+    <string name="show_navbar_gesture_bar_title">手势栏</string>
+    <string name="show_navbar_gesture_bar_summary">在屏幕底部显示手势栏</string>
+
+    <!-- Display Customizations -->
+    <string name="display_customizations">自定义</string>
+
+    <!-- Torch Power button gestures -->
+    <string name="power_button_torch_title">快捷手电筒</string>
+    <string name="power_button_torch_summary">熄屏时，长按电源键将启用手电筒</string>
+
+    <!-- Three-fingers-swipe to screenshot -->
+    <string name="swipe_to_screenshot_gesture_title">滑动截屏</string>
+    <string name="swipe_to_screenshot_gesture_summary">三指向下滑动以截屏</string>
+
+</resources>
