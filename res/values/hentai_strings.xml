@@ -9,4 +9,11 @@
     <string name="disguise_props_for_music_app_title">Disguise device for music apps</string>
     <string name="disguise_props_for_music_app_summary">Disguise device in some music applications for support status bar lyric. After changing this toggle, you have to restart applications for the change to take effect.</string>
 
+    <!-- Navigation bar hint -->
+    <string name="show_navbar_gesture_bar_title">Gesture bar</string>
+    <string name="show_navbar_gesture_bar_summary">Show gesture bar at the bottom of the screen</string>
+
+    <!-- Display Customizations -->
+    <string name="display_customizations">Customizations</string>
+
 </resources>
