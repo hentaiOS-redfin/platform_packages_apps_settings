@@ -76,6 +76,7 @@ android_library {
         "com.google.android.material_material",
         "setupcompat",
         "setupdesign",
+        "VendorSupport-preference",
         "androidx.lifecycle_lifecycle-runtime",
         "androidx.lifecycle_lifecycle-viewmodel",
         "guava",
